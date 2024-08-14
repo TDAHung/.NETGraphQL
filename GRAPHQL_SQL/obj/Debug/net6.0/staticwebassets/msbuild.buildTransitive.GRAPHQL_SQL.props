@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GRAPHQL_SQL.props" />
+</Project>

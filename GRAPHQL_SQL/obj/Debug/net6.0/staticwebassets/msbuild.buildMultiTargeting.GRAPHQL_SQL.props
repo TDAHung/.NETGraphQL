@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GRAPHQL_SQL.props" />
+</Project>
